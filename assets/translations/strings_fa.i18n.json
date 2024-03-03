@@ -193,6 +193,7 @@
             "ignoreBatteryOptimizations": "غیرفعال کردن بهینه‌سازی باتری",
             "ignoreBatteryOptimizationsMsg": "حذف محدودیت‌ها برای عملکرد بهتر VPN",
             "dynamicNotification": "نمایش سرعت در نوتیفیکیشن",
+            "hapticFeedback": "بازخورد لمسی",
             "autoIpCheck": "برسی خودکار آی پی متصل شده"
         },
         "advanced": {
