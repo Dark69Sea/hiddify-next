@@ -213,6 +213,7 @@
         },
         "config": {
             "resetBtn": "گزینه ها را بازنشانی کنید",
+            "reconnectBtn": "اتصال مجدد",
             "serviceMode": "حالت سرویس",
             "serviceModes": {
                 "proxy": "فقط سرویس پروکسی",
