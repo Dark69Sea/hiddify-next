@@ -142,7 +142,8 @@
             "country": "کشور"
         },
         "statsSemantics": {
-            "speed": "سرعت"
+            "speed": "سرعت",
+            "totalTransferred": "مجموع انتقال"
         }
     },
     "logs": {
