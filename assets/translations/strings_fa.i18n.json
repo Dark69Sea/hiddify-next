@@ -59,7 +59,8 @@
             "noTraffic": "پایان ترافیک",
             "upload": "بارگذاری",
             "download": "دریافت",
-            "total": "ترافیک مصرفی"
+            "total": "ترافیک مصرفی",
+            "expireDate": "تارخ انقضا"
         },
         "sortBy": {
             "lastUpdate": "اخیرا بروز شده",
