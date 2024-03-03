@@ -16,7 +16,8 @@
         "agree": "موافقم",
         "decline": "رد",
         "unknown": "ناشناخته",
-        "hidden": "مخفی"
+        "hidden": "مخفی",
+        "timeout": "تایم اوت"
     },
     "intro": {
         "termsAndPolicyCaution(rich)": "در صورت ادامه با ${tap(@:about.termsAndConditions)} موافقت میکنید",
