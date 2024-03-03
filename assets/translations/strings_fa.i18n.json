@@ -57,7 +57,8 @@
             "remainingTrafficSemanticLabel": "${consumed} از ${total} ترافیک مصرف شده",
             "expired": "منقضی شده",
             "noTraffic": "پایان ترافیک",
-            "upload": "بارگذاری"
+            "upload": "بارگذاری",
+            "download": "دریافت"
         },
         "sortBy": {
             "lastUpdate": "اخیرا بروز شده",
