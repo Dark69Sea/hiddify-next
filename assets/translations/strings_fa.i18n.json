@@ -235,6 +235,9 @@
                 "title": "رضایت Cloudflare WARP",
                 "description(rich)": "Cloudflare WARP یک ارائه دهنده رایگان WireGuard VPN است. با فعال کردن این گزینه، با ${tos(شرایط خدمات)} و ${privacy(خط‌مشی رازداری)} Cloudflare WARP موافقت می‌کنید."
             },
+            "generateWarpConfig": "تولید کانفیگ وارپ",
+            "missingWarpConfig": "کانفیگ وارپ گمشده",
+            "warpConfigGenerated": "کانفیگ وارپ ساخته شد",
             "pageTitle": "تنظیمات کانفیگ",
             "logLevel": "سطح لاگ",
             "resolveDestination": "جایگذاری IP مقصد",
