@@ -135,7 +135,8 @@
             "unsorted": "پیش‌فرض",
             "name": "براساس نام",
             "delay": "براساس تاخیر"
-        }
+        },
+        "activeProxySemanticLabel": "پروکسی فعال"
     },
     "logs": {
         "pageTitle": "لاگ‌ها",
