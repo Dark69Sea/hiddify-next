@@ -136,7 +136,10 @@
             "name": "براساس نام",
             "delay": "براساس تاخیر"
         },
-        "activeProxySemanticLabel": "پروکسی فعال"
+        "activeProxySemanticLabel": "پروکسی فعال",
+        "ipInfoSemantics": {
+            "address": "نشانی آی پی"
+        }
     },
     "logs": {
         "pageTitle": "لاگ‌ها",
