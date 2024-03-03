@@ -226,7 +226,7 @@
             "serviceModes": {
                 "proxy": "فقط سرویس پروکسی",
                 "systemProxy": "تنظیم پروکسی سیستم",
-                "tun": "VPN",
+                "tun": "فیلترشکن",
                 "tunService": "سرویس فیلترشکن"
             },
             "section": {
@@ -236,7 +236,7 @@
                 "mux": "Multiplexer",
                 "outbound": "Outbound Options",
                 "tlsTricks": "TLS Tricks",
-                "warp": "WARP Options",
+                "warp": "تنظیمات وارپ",
                 "misc": "تنظیمات متفرقه"
             },
             "warpConsent": {
@@ -284,7 +284,7 @@
             "enableMux": "Enable Mux",
             "muxProtocol": "Mux Protocol",
             "muxMaxStreams": "Max Concurrent Streams",
-            "enableWarp": "Enable WARP",
+            "enableWarp": "فعال کردن وارپ",
             "warpDetourMode": "Detour Mode",
             "warpDetourModes": {
                 "inbound": "Detour WARP through proxies",
@@ -292,7 +292,7 @@
             },
             "warpLicenseKey": "License Key",
             "warpCleanIp": "Clean IP",
-            "warpPort": "Port",
+            "warpPort": "پورت",
             "warpNoise": "Noise",
             "warpNoiseDelay": "تاخیر نویز"
         },
