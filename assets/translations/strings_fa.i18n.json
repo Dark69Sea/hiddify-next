@@ -192,7 +192,8 @@
             "openWorkingDir": "باز کردن دایرکتوری کاری",
             "ignoreBatteryOptimizations": "غیرفعال کردن بهینه‌سازی باتری",
             "ignoreBatteryOptimizationsMsg": "حذف محدودیت‌ها برای عملکرد بهتر VPN",
-            "dynamicNotification": "نمایش سرعت در نوتیفیکیشن"
+            "dynamicNotification": "نمایش سرعت در نوتیفیکیشن",
+            "autoIpCheck": "برسی خودکار آی پی متصل شده"
         },
         "advanced": {
             "sectionTitle": "پیشرفته",
@@ -218,6 +219,7 @@
         },
         "config": {
             "resetBtn": "گزینه ها را بازنشانی کنید",
+            "reconnectMsg": "دوباره وصل شوید تا تغییرات اعمال شود",
             "reconnectBtn": "اتصال مجدد",
             "serviceMode": "حالت سرویس",
             "serviceModes": {
@@ -290,7 +292,8 @@
             "warpLicenseKey": "License Key",
             "warpCleanIp": "Clean IP",
             "warpPort": "Port",
-            "warpNoise": "Noise"
+            "warpNoise": "Noise",
+            "warpNoiseDelay": "تاخیر نویز"
         },
         "geoAssets": {
             "pageTitle": "فایل‌های مسیریابی",
