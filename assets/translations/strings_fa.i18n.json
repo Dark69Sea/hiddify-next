@@ -15,7 +15,8 @@
         "notSet": "تنظیم نشده",
         "agree": "موافقم",
         "decline": "رد",
-        "unknown": "ناشناخته"
+        "unknown": "ناشناخته",
+        "hidden": "مخفی"
     },
     "intro": {
         "termsAndPolicyCaution(rich)": "در صورت ادامه با ${tap(@:about.termsAndConditions)} موافقت میکنید",
