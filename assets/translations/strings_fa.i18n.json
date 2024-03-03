@@ -140,6 +140,9 @@
         "ipInfoSemantics": {
             "address": "نشانی آی پی",
             "country": "کشور"
+        },
+        "statsSemantics": {
+            "speed": "سرعت"
         }
     },
     "logs": {
