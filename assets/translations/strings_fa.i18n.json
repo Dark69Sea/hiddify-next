@@ -40,7 +40,8 @@
             "traffic": "مصرف لحظه‌ای",
             "trafficTotal": "مصرف کل",
             "uplink": "ارسال",
-            "downlink": "دریافت"
+            "downlink": "دریافت",
+            "connection": "اتصال"
         }
     },
     "profile": {
