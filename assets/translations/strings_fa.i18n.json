@@ -56,7 +56,8 @@
             "remainingDuration": "${duration} روز باقی مانده",
             "remainingTrafficSemanticLabel": "${consumed} از ${total} ترافیک مصرف شده",
             "expired": "منقضی شده",
-            "noTraffic": "پایان ترافیک"
+            "noTraffic": "پایان ترافیک",
+            "upload": "بارگذاری"
         },
         "sortBy": {
             "lastUpdate": "اخیرا بروز شده",
