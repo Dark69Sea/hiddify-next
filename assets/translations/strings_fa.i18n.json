@@ -129,6 +129,8 @@
         "emptyProxiesMsg": "پراکسی وجود ندارد",
         "delayTestTooltip": "تست تاخیر",
         "sortTooltip": "مرتب‌سازی پراکسی‌ها",
+        "checkIp": "برسی آی پی",
+        "unknownIp": "آی پی ناشناخته",
         "sortOptions": {
             "unsorted": "پیش‌فرض",
             "name": "براساس نام",
