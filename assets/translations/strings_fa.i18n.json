@@ -218,7 +218,8 @@
             "serviceModes": {
                 "proxy": "فقط سرویس پروکسی",
                 "systemProxy": "تنظیم پروکسی سیستم",
-                "tun": "VPN"
+                "tun": "VPN",
+                "tunService": "سرویس فیلترشکن"
             },
             "section": {
                 "route": "تنظیمات مسیریاب",
