@@ -137,6 +137,11 @@
             "delay": "براساس تاخیر"
         },
         "activeProxySemanticLabel": "پروکسی فعال",
+        "delaySemantics": {
+            "result": "تاخیر: ${delay}ms",
+            "timeout": "تایم اوت تست تاخیر",
+            "testing": "تاخیر:درحال تست...."
+        },
         "ipInfoSemantics": {
             "address": "نشانی آی پی",
             "country": "کشور"
