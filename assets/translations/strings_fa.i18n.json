@@ -58,7 +58,8 @@
             "expired": "منقضی شده",
             "noTraffic": "پایان ترافیک",
             "upload": "بارگذاری",
-            "download": "دریافت"
+            "download": "دریافت",
+            "total": "ترافیک مصرفی"
         },
         "sortBy": {
             "lastUpdate": "اخیرا بروز شده",
