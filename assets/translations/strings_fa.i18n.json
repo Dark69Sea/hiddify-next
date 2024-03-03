@@ -138,7 +138,8 @@
         },
         "activeProxySemanticLabel": "پروکسی فعال",
         "ipInfoSemantics": {
-            "address": "نشانی آی پی"
+            "address": "نشانی آی پی",
+            "country": "کشور"
         }
     },
     "logs": {
